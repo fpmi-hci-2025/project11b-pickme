@@ -60,9 +60,6 @@ This repository serves as a meta-repository (monorepo) that unifies all system c
 - **[Web Client Repository](https://github.com/fpmi-hci-2025/project11b-web-pickme)**  
   A responsive web interface built with React and Tailwind CSS, focused on simplicity and user experience.
 
-- **[Mobile Client Repository](https0://github.com/fpmi-hci-2025/project11b-mobile-pickme)**  
-  A mobile application (in development) to be built using modern cross-platform technologies.
-
 ## Usage
 
 After a successful launch:
